@@ -1,8 +1,8 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# (David) - (M3) Portfolio
 
 ## Areas of Emphasis
 
-(What did you set out to accomplish this module?)
+This module I focused on solidifying my understanding of react, and learning router and redux.
 
 ## Rubric Scores
 
@@ -16,67 +16,39 @@
 
 ## A: End of Module Assessment
 
-(Indicate whether you passed or failed the end of module assessment)
+pass
 
 
 ## B: Individual Work & Projects
 
-(Intro)
+#### (SwapiBox)
 
-#### (Project Name)
+* [GitHub URL](https://github.com/dsdunn/swapibox)
+* [Original Assignment](http://frontend.turing.io/projects/swapi-box.html)
 
-* [GitHub URL]()
-* [Original Assignment]()
 
-(description)
+This project allows users to browse through characters, vehicles and planets featured in the Star Wars movies.
 
-(evaluation comments)
+[scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-3/swapi-box/david/scores.md)
 
-(evaluation scores)
+#### (Self-Directed Project: Scene-It)
+
+* [GitHub URL](https://github.com/dsdunn/scene-it)
+* [Original Assignment](http://frontend.turing.io/projects/self-directed-project.html)
+
+[scores]()
 
 ## C: Group Work & Projects
 
 ### Projects
 
-(Intro)
+#### (HeadCount)
 
-#### (Project Name)
+* [GitHub URL](https://github.com/tmcjunkinmarquis/headcount3.0)
+* [Original Assignment](https://github.com/turingschool-examples/headcount2.0)
 
-* [GitHub URL]()
-* [Original Assignment]()
+(This project allows a user to enter a school district name and UI displays the complete set of Colorado school districts and the user-selected districts. User can click on a district to select a second and UI shows the comparison information between two selected districts.)
 
-(description)
+[scores](https://github.com/turingschool/front-end-submissions-public/blob/master/1803/mod-3/headcount/theresa-david/scores.md)
 
-(evaluation comments)
 
-(evaluation scores)
-
-(feedback to me)
-
-## D: Professional Skills
-(Intro)
-
-### Gear Up
-#### (Session Name)
-
-* [GitHub URL]()
-
-(3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently)
-
-## E: Community Participation
-
-### Playing a Part
-
-(ways you supported the larger Turing community)
-
-------------------
-
-## Final Review
-
-### Notes
-
-( Leave blanks for reviewers )
-
-### Outcome
-
-( Leave blanks for reviewers )
